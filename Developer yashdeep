@@ -1,0 +1,10 @@
+#jnv
+# Assigning an infinite number
+infinity = float('inf')
+
+# Printing the infinite number
+print("The value of infinity is:", infinity)
+
+# Checking if a number is infinite
+if infinity > 1000000:
+    print("Infinity is greater than a million!")
